@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing B.Tech in INformation Technology from Bharti Vidyapeeth (Deemed to be University) College of Engineering, Pune  
+- 🎓 I'm currently pursuing B.Tech in Information Technology from Bharti Vidyapeeth (Deemed to be University) College of Engineering, Pune  
 - 📚 I’m focusing on **Data Structures & Algorithms**, **Data Analyst**, and **Database Management Systems**
 - 🎯 Preparing for placements and actively working on improving problem-solving skills
 - 🌱 Currently learning:  
