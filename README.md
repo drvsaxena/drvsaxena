@@ -18,10 +18,10 @@
 
 Here are a few highlights:
 
+- 📊 **DSA Tracker** — A personal web tool to track progress in Data Structures & Algorithms preparation
 - 🏨 **Hotel Reservation System** — A complete hotel room booking system with user and admin modules
 - 🚆 **Railway Ticket Booking Website** — A ticket reservation platform built with DBMS concepts and relational design
 - 📱 **Mobile Price Predictor using AWS SageMaker** — A machine learning model deployed on AWS to predict mobile phone prices
-- 📊 **DSA Tracker** — A personal web tool to track progress in Data Structures & Algorithms preparation
 
   ➡️ Check out all my projects in the **Repositories** section!
 
