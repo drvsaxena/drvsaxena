@@ -31,7 +31,7 @@ Here are a few highlights:
 
 - 📫 Email: dhruvsaxena132@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/drvsaxenaofficial/
-- 🌍 Portfolio: https://drvsaxena.github.io/portfolio-website/
+- 🌍 Portfolio: https://dhruvsaxena.me/
 ---
 
 ## 🚀 Let's Collaborate
