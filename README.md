@@ -7,10 +7,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing B.Tech in Information Technology from Bharti Vidyapeeth (Deemed to be University) College of Engineering, Pune  
-- 📚 I’m focusing on **Data Structures & Algorithms**, **Data Analyst**, and **Database Management Systems**
-- 🎯 Preparing for placements and actively working on improving problem-solving skills
+- 📚 I’m focusing on **Data Structures & Algorithms**, **Data Analytics**, and **Database Management Systems**  
+- 🎯 Preparing for placements and actively working on improving problem-solving skills  
 - 🌱 Currently learning:  
-  `Java`, `DSA`, `MySQL`, `Power BI`, `DAX`, `HTML`, `CSS`, `MongoDB` and more
+  `Java`, `DSA`, `MySQL`, `Power BI`, `DAX`, `HTML`, `CSS`, `MongoDB` and more  
 
 ---
 
@@ -18,28 +18,31 @@
 
 Here are a few highlights:
 
-- 📊 **DSA Tracker** — A personal web tool to track progress in Data Structures & Algorithms preparation
-- 🎬 **Movie Box Analysis** — An interactive Power BI dashboard for analyzing movie box office performance, trends, and insights using data visualization techniques
-- 🏨 **Hotel Reservation System** — A complete hotel room booking system with user and admin modules
-- 🚆 **Railway Ticket Booking Website** — A ticket reservation platform built with DBMS concepts and relational design
-- 📱 **Mobile Price Predictor using AWS SageMaker** — A machine learning model deployed on AWS to predict mobile phone prices
+- 🏧 **ATM Transaction Management System** — A secure banking application with features like account management, SHA-256 based authentication, mini statement generation, and PDF export for transaction slips.  
 
-  ➡️ Check out all my projects in the **Repositories** section!
+- 🏨 **Hospitality Insights Dashboard** — An interactive **Power BI dashboard** designed for hotel performance tracking. It provides insights into occupancy, revenue, guest trends, and key hospitality KPIs for decision-making.  
+
+- 🔐 **Security Utility Program** — A lightweight **encryption & decryption tool** built in Java using XOR logic, designed to protect sensitive text data with a simple but effective mechanism.  
+
+- 📊 **DSA Tracker** — A personal web tool for monitoring **Data Structures & Algorithms** preparation progress, helping to organize solved problems and identify weak areas.  
+
+  ➡️ Check out all my projects in the **Repositories** section!  
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📫 Email: dhruvsaxena132@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/drvsaxenaofficial/
-- 🌍 Portfolio: https://dhruvsaxena.me/
+- 📫 Email: dhruvsaxena132@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/drvsaxenaofficial](https://www.linkedin.com/in/drvsaxenaofficial/)  
+- 🌍 Portfolio: [dhruvsaxena.me](https://dhruvsaxena.me/)  
+
 ---
 
 ## 🚀 Let's Collaborate
 
-I'm open to:
-- 📌 Contributing to open-source projects
-- 💬 Tech discussions and brainstorming
-- 🧑‍💻 Collaborating on development or Data Modelling projects
+I'm open to:  
+- 📌 Contributing to open-source projects  
+- 💬 Tech discussions and brainstorming  
+- 🧑‍💻 Collaborating on development or Data Modelling projects  
 
-Thanks for visiting my profile! ⭐️
+Thanks for visiting my profile! ⭐️  
