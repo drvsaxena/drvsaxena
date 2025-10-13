@@ -112,46 +112,6 @@ A personal progress tracking tool designed to organize DSA preparation and monit
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Tech Stack))
-    Core Programming
-      Java
-      DSA
-      Design Patterns
-    Data & Analytics
-      MySQL
-      MongoDB
-      Power BI
-      DAX
-    Web Technologies
-      HTML5
-      CSS3
-      JavaScript
-```
-
-</div>
-
----
-
 ## 🤝 Let's Collaborate!
 
 I'm actively seeking opportunities to:
